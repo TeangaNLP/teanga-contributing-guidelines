@@ -10,7 +10,7 @@ with the teanga ecosystem of projects.
 
 
 # How to create reusable/replicable code
--
+- thinking source-code / client-code 
 # How to create clear usage instructions
 -
 # How to create code documentation
